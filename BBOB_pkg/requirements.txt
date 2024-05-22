@@ -1,0 +1,4 @@
+numpy==1.23.5
+setuptools==68.2.2
+sympy==1.12
+torch==1.12.0
