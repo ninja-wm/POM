@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: BBOB
+Version: 1.0.2
+Home-page: 
+Author: 能断
+Author-email: 2621843957@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text
+
+对BBOB函数的实现,BUG修复版本,24个函数都可以使用了
